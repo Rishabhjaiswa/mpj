@@ -1,7 +1,7 @@
 # mpj
 This repository is about mpj assignments .
 
-# Assignment 1
+# Assignment 1 (student)
 *Description
 
 This project demonstrates basic Object-Oriented Programming (OOP) concepts in Java using a Student class. The program stores student marks for three subjects, calculates the percentage, and determines whether the student has passed or failed (minimum 35%).
@@ -26,7 +26,7 @@ Displays Pass/Fail result
 
 Uses encapsulation for data protection
 
-# Assignment 2
+# Assignment 2 (employee)
 
 *Description
 
